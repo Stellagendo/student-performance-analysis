@@ -1,0 +1,201 @@
+Student_ID,Student_Name,Gender,Course,Department,City,Attendance_Percentage,Midterm_Score,Final_Exam_Score,Email,Notes
+STU-001,Agnes Kassim,Male,business intelligence,Business,Dar es Salaam,68,,52,student1@example.com,Needs  support
+STU-002,Daniel Moshi,Female,python,ICT,Arusha,62,55,74,student2@example.com,
+STU-003,Kelvin Mollel,female,sql,Computer Science,Dar es Salaam,90,85,79,student3@example.com,Good progress
+STU-004,Halima Swai,male,python,Statistics,Mwanza,68,55,88,student4@example.com,Good progress
+STU-005,Baraka Mushi,Female,Python,statistics,Mwanza,98,60,38,student5@example.com,Needs  support
+STU-006,Esther Kweka,Female,python,ICT,Arusha,75,72,92,student6@example.com,
+STU-007,Rehema Mrema,Female,Data Analysis,ICT,Dar es Salaam,90,60,45,student7@example.com,Needs support
+STU-008,Michael Kassim,Female,business intelligence,Computer Science,dar es salaam,76,65,62,student8@example.com,Excellent
+STU-009,David Msuya,MALE,data analysis,Business,dar es salaam,68,80,74,student9@example.com,Needs support
+STU-010,Esther Mushi,MALE,sql,Business,dar es salaam,80,72,38,student10@example.com,Needs support
+STU-011,Janet Mollel,FEMALE,python,Statistics,Arusha,72,85,88,student11@example.com,Needs support
+STU-012,Agnes Nnko,Female,SQL,Business,Mwanza,68,55,79,student12@example.com,Needs  support
+STU-013,Salma Mushi,Female,Python,Business,Dar es Salaam,95,75,45,student13@example.com,Good progress
+STU-014,Michael Kassim,male,Data  Analysis,statistics,dar es salaam,85,85,45,student14@example.com,good progress
+STU-015,Grace Massawe,Male,sql,Statistics,Arusha,76,35,52,student15@example.com,Needs  support
+STU-016,Rose Kweka,MALE,Python,ICT,Mwanza,85,48,75,student16@example.com,Good progress
+STU-017,Daniel Moshi,MALE,sql,statistics,Dar es Salaam,95,42,83,,Needs  support
+STU-018,Fatma Massawe,female,Data  Analysis,Statistics,Mwanza,68,80,28,student18@example.com,
+STU-019,Joyce Nnko,Male,data analysis,Statistics,Mwanza,90,60,74,student19@example.com,Good progress
+STU-020,Hassan Moshi,Female,data analysis,ICT,Dodoma,76,42,58,student20@example.com,Needs support
+STU-021,Brian Nnko,male,business intelligence,Business,Mwanza,98,70,68,student21@example.com,
+STU-022,Halima Mrema,female,business intelligence,Computer Science,dar es salaam,,65,75,student22@example.com,
+STU-023,Esther Kassim,female,Business Intelligence,ICT,Mwanza,55,85,74,student23@example.com,
+STU-024,Hassan Mollel,Female,Data Analysis,Business,Arusha,55,72,88,student24@example.com,Good progress
+STU-025,Fatma Msuya,MALE,SQL,Business,Arusha,68,,84,student25@example.com,Needs support
+STU-026,Emmanuel Nnko,Female,Business Intelligence,ICT,Arusha,,70,92,student26@example.com,good progress
+STU-027,Peter Nnko,Male,data analysis,ICT,Dodoma,85,65,52,student27@example.com,Needs support
+STU-028,Rehema Msuya,Male,Data  Analysis,Computer Science,Dar es Salaam,75,75,74,student28@example.com,Good progress
+STU-029,Esther Swai,Female,Data Analysis,ICT,Arusha,76,35,45,student29@example.com,Needs support
+STU-030,Asha Mushi,Male,SQL,Business,Mwanza,85,35,62,student30@example.com,good progress
+STU-031,Amani Mushi,MALE,SQL,Statistics,Dodoma,85,,84,student31@example.com,Needs support
+STU-032,Rehema Mtei,female,Data Analysis,Business,dar es salaam,95,35,88,student32@example.com,Good progress
+STU-033,Neema Massawe,Male,sql,statistics,Arusha,68,35,45,student33@example.com,Needs support
+STU-034,Baraka Massawe,Female,Business Intelligence,Computer Science,Arusha,98,55,38,,
+STU-035,Baraka Mushi,FEMALE,business intelligence,Business,dar es salaam,85,65,74,student35@example.com,Excellent
+STU-036,Grace Mashauri,MALE,SQL,Statistics,Mwanza,62,35,75,student36@example.com,
+STU-037,Salma Kassim,Female,sql,Business,Arusha,75,48,92,student37@example.com,Good progress
+STU-038,Rose Msuya,FEMALE,business intelligence,Business,Dodoma,76,80,83,student38@example.com,
+STU-039,Emmanuel Said,Male,sql,Statistics,dar es salaam,62,48,79,student39@example.com,Good progress
+STU-040,Rose Kassim,male,business intelligence,Statistics,Arusha,72,,88,student40@example.com,Needs support
+STU-041,Brian Said,MALE,sql,Computer Science,Mwanza,76,35,45,student41@example.com,Needs  support
+STU-042,Peter Lyimo,MALE,Data Analysis,ICT,Mwanza,90,48,79,student42@example.com,Needs support
+STU-043,Daniel Nnko,Female,sql,ICT,Arusha,62,,58,student43@example.com,
+STU-044,Neema Lyimo,FEMALE,sql,Business,Dodoma,68,35,83,student44@example.com,Excellent
+STU-045,Rose Moshi,Male,Python,Business,dar es salaam,72,90,52,student45@example.com,Excellent
+STU-046,Halima Kweka,Female,Data  Analysis,Business,Mwanza,68,65,62,student46@example.com,good progress
+STU-047,Amani Mashauri,FEMALE,python,statistics,dar es salaam,76,,74,student47@example.com,Excellent
+STU-048,Asha Swai,Female,python,statistics,Arusha,76,75,74,student48@example.com,Needs support
+STU-049,Janet Moshi,Male,Python,Statistics,Mwanza,90,72,74,student49@example.com,Needs support
+STU-050,Amani Said,female,python,Statistics,Mwanza,76,42,79,student50@example.com,Excellent
+STU-051,Amani Said,Female,sql,Statistics,Arusha,62,60,62,,
+STU-052,Mariam Mollel,Female,python,Statistics,dar es salaam,90,65,,student52@example.com,
+STU-053,Fatma Kassim,Female,Business Intelligence,Statistics,Arusha,85,70,28,student53@example.com,
+STU-054,Joseph Swai,female,Python,Computer Science,Arusha,,65,88,student54@example.com,Needs  support
+STU-055,Michael Kassim,MALE,sql,Statistics,dar es salaam,85,65,96,student55@example.com,Needs  support
+STU-056,Omari Kweka,male,Business Intelligence,Computer Science,dar es salaam,85,90,62,student56@example.com,
+STU-057,Salma Mtei,Female,sql,statistics,Arusha,75,60,68,student57@example.com,good progress
+STU-058,Emmanuel Massawe,FEMALE,SQL,Computer Science,Dodoma,,55,84,student58@example.com,Needs  support
+STU-059,Asha Said,Female,business intelligence,Business,dar es salaam,,85,88,student59@example.com,Good progress
+STU-060,Janet Swai,female,business intelligence,Business,Mwanza,72,48,28,student60@example.com,Good progress
+STU-061,Hassan Nnko,Female,SQL,Computer Science,dar es salaam,98,55,96,student61@example.com,good progress
+STU-062,Grace Msuya,male,Data Analysis,statistics,Mwanza,90,42,,student62@example.com,Needs support
+STU-063,Asha Swai,Male,Data Analysis,Business,Dar es Salaam,76,42,75,student63@example.com,Needs support
+STU-064,Emmanuel Nnko,FEMALE,SQL,Business,Mwanza,85,80,,student64@example.com,
+STU-065,Esther Moshi,male,SQL,Computer Science,Mwanza,90,55,79,student65@example.com,
+STU-066,John Said,female,business intelligence,Computer Science,Arusha,85,60,74,student66@example.com,Excellent
+STU-067,Joyce Kimaro,Female,Data  Analysis,Business,Dar es Salaam,85,,58,student67@example.com,Needs  support
+STU-068,Rehema Kassim,Female,python,Statistics,Arusha,90,70,38,,Needs support
+STU-069,Janet Mushi,Female,Data Analysis,statistics,Mwanza,98,70,84,student69@example.com,Good progress
+STU-070,David Mtei,Female,python,Business,dar es salaam,85,80,74,student70@example.com,good progress
+STU-071,Hassan Mtei,Female,SQL,ICT,Dodoma,80,90,96,student71@example.com,Needs  support
+STU-072,Asha Lyimo,Male,Data  Analysis,Business,Arusha,55,70,28,student72@example.com,Good progress
+STU-073,Agnes Mushi,male,SQL,Business,Arusha,75,70,88,student73@example.com,Needs support
+STU-074,Esther Kimaro,FEMALE,python,Statistics,Mwanza,76,70,79,student74@example.com,Good progress
+STU-075,John Mollel,Male,Python,Business,dar es salaam,62,65,38,student75@example.com,Good progress
+STU-076,Hassan Msuya,Male,Data  Analysis,Business,Dar es Salaam,90,90,52,student76@example.com,
+STU-077,Rehema Nnko,MALE,Python,Business,Arusha,98,,52,student77@example.com,Needs support
+STU-078,Omari Kassim,Male,business intelligence,Business,dar es salaam,85,70,68,student78@example.com,Good progress
+STU-079,Salma Mrema,female,data analysis,ICT,Mwanza,75,72,52,student79@example.com,
+STU-080,Emmanuel Mollel,FEMALE,sql,Computer Science,dar es salaam,80,42,88,student80@example.com,Good progress
+STU-081,Michael Mushi,Male,data analysis,Computer Science,Mwanza,,72,75,student81@example.com,Needs  support
+STU-082,Juma Mushi,male,sql,ICT,Mwanza,98,65,84,student82@example.com,good progress
+STU-083,Peter Lyimo,MALE,Python,statistics,Dar es Salaam,76,42,79,student83@example.com,good progress
+STU-084,Hassan Swai,Male,python,Statistics,Arusha,90,72,88,student84@example.com,Needs support
+STU-085,John Msuya,FEMALE,business intelligence,Statistics,Mwanza,98,,79,,
+STU-086,Amani Kweka,female,data analysis,Business,dar es salaam,85,75,74,student86@example.com,Needs  support
+STU-087,John Said,Male,SQL,statistics,Arusha,62,60,74,student87@example.com,good progress
+STU-088,Sophia Msuya,MALE,Python,Computer Science,Arusha,95,65,,student88@example.com,Needs  support
+STU-089,Ibrahim Kimaro,FEMALE,SQL,Statistics,Mwanza,75,55,52,student89@example.com,Needs  support
+STU-090,Rehema Kimaro,Female,sql,statistics,dar es salaam,68,55,68,student90@example.com,Needs  support
+STU-091,John Mtei,MALE,data analysis,statistics,Dar es Salaam,75,55,92,student91@example.com,Needs support
+STU-092,Omari Mollel,male,business intelligence,ICT,Arusha,95,60,58,student92@example.com,Needs  support
+STU-093,Michael Swai,Male,data analysis,statistics,Arusha,98,60,84,student93@example.com,good progress
+STU-094,Esther Kimaro,male,Data Analysis,Statistics,Mwanza,90,42,45,student94@example.com,good progress
+STU-095,John Kassim,Male,Data  Analysis,Business,Mwanza,98,60,45,student95@example.com,Needs support
+STU-096,Zawadi Kweka,Female,Business Intelligence,statistics,Arusha,85,75,75,student96@example.com,Excellent
+STU-097,Michael Massawe,Female,business intelligence,Business,Arusha,55,85,52,student97@example.com,Needs support
+STU-098,Agnes Msuya,MALE,data analysis,Business,Dar es Salaam,68,80,45,student98@example.com,Needs support
+STU-099,Amani Mushi,Male,SQL,Statistics,Arusha,72,60,83,student99@example.com,Needs  support
+STU-100,Michael Nnko,Female,Business Intelligence,Statistics,Mwanza,90,90,68,student100@example.com,good progress
+STU-100,Michael Nnko,Female,Business Intelligence,Statistics,Mwanza,90,90,68,student100@example.com,good progress
+STU-102,Zawadi Kweka,MALE,SQL,ICT,Dodoma,85,60,96,,Excellent
+STU-103,Fatma Kweka,Male,SQL,ICT,Arusha,55,70,88,student103@example.com,
+STU-104,Mariam Mollel,Female,Business Intelligence,ICT,Mwanza,76,85,28,student104@example.com,Needs  support
+STU-105,Janet Mtei,Male,Data  Analysis,Computer Science,Arusha,,75,79,student105@example.com,Needs support
+STU-106,Salma Mushi,Male,data analysis,Computer Science,Mwanza,85,65,88,student106@example.com,Needs  support
+STU-107,Zawadi Lyimo,male,Python,Computer Science,dar es salaam,90,60,96,student107@example.com,
+STU-108,Neema Nnko,Female,Python,Statistics,Mwanza,62,65,96,student108@example.com,
+STU-109,Janet Mollel,Male,python,ICT,Dar es Salaam,95,65,84,student109@example.com,Needs  support
+STU-110,Esther Swai,Male,Business Intelligence,Statistics,Arusha,68,60,75,student110@example.com,Needs  support
+STU-111,John Kassim,Male,Business Intelligence,ICT,Dar es Salaam,75,80,28,student111@example.com,
+STU-112,Peter Kassim,female,data analysis,Computer Science,Arusha,,72,58,student112@example.com,good progress
+STU-113,Joseph Mrema,MALE,sql,ICT,Mwanza,85,72,84,student113@example.com,good progress
+STU-114,Hassan Nnko,male,python,Business,Arusha,95,,58,student114@example.com,Good progress
+STU-115,Mariam Swai,Female,Python,statistics,Arusha,75,72,28,student115@example.com,Excellent
+STU-116,Daniel Mtei,Male,Data  Analysis,Computer Science,Arusha,90,65,88,student116@example.com,
+STU-117,Halima Kweka,Female,SQL,Statistics,Mwanza,72,,74,student117@example.com,
+STU-118,Grace Msuya,Female,Data Analysis,Statistics,dar es salaam,90,,96,student118@example.com,good progress
+STU-119,Brian Swai,male,SQL,ICT,Dar es Salaam,95,85,88,,Good progress
+STU-120,Michael Lyimo,Male,data analysis,Business,Dodoma,55,,58,student120@example.com,good progress
+STU-121,Michael Said,male,data analysis,Computer Science,Mwanza,75,65,96,student121@example.com,Needs  support
+STU-122,Baraka Lyimo,FEMALE,sql,Computer Science,Mwanza,,,84,student122@example.com,
+STU-123,Neema Massawe,Female,Business Intelligence,ICT,dar es salaam,75,55,45,student123@example.com,good progress
+STU-124,Zawadi Swai,Female,SQL,Business,dar es salaam,75,35,38,student124@example.com,Excellent
+STU-125,Emmanuel Mollel,MALE,Python,Statistics,Dodoma,68,55,,student125@example.com,
+STU-126,Brian Swai,male,Data  Analysis,Business,Arusha,98,72,96,student126@example.com,
+STU-127,Brian Msuya,Male,Data  Analysis,Business,Dodoma,,60,75,student127@example.com,Excellent
+STU-128,Brian Mollel,Male,business intelligence,ICT,Arusha,68,42,75,student128@example.com,Excellent
+STU-129,Salma Mtei,Female,business intelligence,Computer Science,Mwanza,75,55,96,student129@example.com,good progress
+STU-130,Zawadi Msuya,Female,Python,Business,Mwanza,85,60,28,student130@example.com,Needs  support
+STU-131,Grace Mtei,Male,Data Analysis,Business,dar es salaam,90,72,83,student131@example.com,Needs support
+STU-132,Kelvin Swai,FEMALE,Business Intelligence,ICT,Dar es Salaam,98,60,58,student132@example.com,Needs  support
+STU-133,Zawadi Moshi,Male,business intelligence,statistics,Dodoma,55,85,92,student133@example.com,Needs  support
+STU-134,Juma Kassim,MALE,Python,ICT,Dodoma,68,55,58,student134@example.com,
+STU-135,Rose Kimaro,MALE,Data  Analysis,Statistics,Mwanza,90,65,83,student135@example.com,Needs  support
+STU-136,Michael Kimaro,Female,SQL,ICT,Dar es Salaam,90,55,96,,
+STU-137,David Kassim,Female,Data Analysis,Statistics,Arusha,62,75,92,student137@example.com,Needs  support
+STU-138,Daniel Said,MALE,python,statistics,dar es salaam,80,42,74,student138@example.com,good progress
+STU-139,Amani Massawe,FEMALE,Business Intelligence,ICT,Arusha,,72,75,student139@example.com,Needs  support
+STU-140,Omari Said,Female,data analysis,Business,Arusha,55,60,84,student140@example.com,Good progress
+STU-141,Zawadi Msuya,male,python,Computer Science,Mwanza,,,,student141@example.com,
+STU-142,Daniel Mrema,male,python,ICT,Arusha,76,75,,student142@example.com,Excellent
+STU-143,Neema Mrema,FEMALE,Business Intelligence,Computer Science,Dodoma,72,72,92,student143@example.com,Good progress
+STU-144,Brian Kimaro,FEMALE,Data Analysis,Computer Science,Mwanza,72,42,75,student144@example.com,Good progress
+STU-145,Brian Msuya,Male,Data Analysis,statistics,Mwanza,72,48,68,student145@example.com,Good progress
+STU-146,Janet Swai,female,Business Intelligence,statistics,Mwanza,72,65,58,student146@example.com,
+STU-147,Amani Mtei,male,Data  Analysis,Business,Mwanza,90,48,52,student147@example.com,Needs  support
+STU-148,Michael Mollel,male,Data Analysis,Statistics,Mwanza,90,55,88,student148@example.com,Good progress
+STU-149,Asha Mtei,Male,Data  Analysis,ICT,Dodoma,95,42,45,student149@example.com,good progress
+STU-150,Esther Swai,FEMALE,sql,Business,Arusha,90,80,74,student150@example.com,
+STU-150,Esther Swai,FEMALE,sql,Business,Arusha,90,80,74,student150@example.com,
+STU-152,Brian Kassim,Male,SQL,ICT,Arusha,80,85,58,student152@example.com,Good progress
+STU-153,Brian Kassim,FEMALE,python,Business,Arusha,75,75,,,Good progress
+STU-154,Emmanuel Mrema,Female,sql,ICT,Mwanza,72,70,75,student154@example.com,Needs support
+STU-155,Peter Kimaro,Male,python,Computer Science,dar es salaam,62,65,,student155@example.com,Excellent
+STU-156,Brian Mtei,FEMALE,Data  Analysis,ICT,Dodoma,62,42,45,student156@example.com,Good progress
+STU-157,Peter Kassim,FEMALE,Data  Analysis,Business,Arusha,98,80,88,student157@example.com,Needs  support
+STU-158,Zawadi Mushi,FEMALE,python,statistics,dar es salaam,55,60,83,student158@example.com,Excellent
+STU-159,Zawadi Massawe,female,Data  Analysis,ICT,Dodoma,72,72,52,student159@example.com,Excellent
+STU-160,Michael Kweka,FEMALE,data analysis,statistics,Mwanza,98,55,,student160@example.com,
+STU-161,Halima Lyimo,Male,business intelligence,ICT,Dar es Salaam,75,,83,student161@example.com,Excellent
+STU-162,David Mollel,male,Data  Analysis,Business,dar es salaam,85,42,58,student162@example.com,Needs  support
+STU-163,Agnes Mollel,Female,sql,Business,Dodoma,85,75,88,student163@example.com,Needs support
+STU-164,David Mtei,FEMALE,data analysis,ICT,Dar es Salaam,68,65,38,student164@example.com,Needs  support
+STU-165,Baraka Mtei,Male,python,Computer Science,Arusha,90,70,79,student165@example.com,Needs support
+STU-166,Halima Kweka,Female,Python,Computer Science,Arusha,75,90,84,student166@example.com,
+STU-167,Brian Mtei,Male,Business Intelligence,Computer Science,Arusha,55,35,68,student167@example.com,Excellent
+STU-168,Rehema Swai,male,business intelligence,Statistics,Mwanza,62,35,84,student168@example.com,Needs  support
+STU-169,Peter Mashauri,male,python,Business,dar es salaam,72,80,92,student169@example.com,Good progress
+STU-170,Grace Lyimo,Male,python,ICT,Dodoma,62,72,88,,
+STU-171,Peter Massawe,Female,python,Statistics,Arusha,85,35,88,student171@example.com,Needs support
+STU-172,Emmanuel Massawe,Male,Python,ICT,Dodoma,76,42,74,student172@example.com,good progress
+STU-173,Salma Mushi,Female,python,statistics,Mwanza,85,65,74,student173@example.com,Excellent
+STU-174,Halima Mashauri,Female,sql,ICT,Arusha,95,80,68,student174@example.com,Excellent
+STU-175,David Mrema,male,Business Intelligence,ICT,Dar es Salaam,75,55,62,student175@example.com,
+STU-176,Juma Swai,Female,Data  Analysis,statistics,dar es salaam,90,75,75,student176@example.com,Needs  support
+STU-177,Joseph Moshi,FEMALE,Python,Business,Dodoma,62,75,75,student177@example.com,Needs  support
+STU-178,Omari Swai,MALE,Data Analysis,Statistics,Arusha,62,60,75,student178@example.com,good progress
+STU-179,Neema Mollel,FEMALE,business intelligence,ICT,dar es salaam,76,72,45,student179@example.com,
+STU-180,Kelvin Kweka,Female,SQL,Business,Arusha,90,,38,student180@example.com,good progress
+STU-181,Joseph Swai,female,Python,Business,Dodoma,95,48,38,student181@example.com,good progress
+STU-182,Zawadi Swai,FEMALE,data analysis,Business,dar es salaam,68,35,74,student182@example.com,Needs  support
+STU-183,Esther Nnko,male,Python,Statistics,Mwanza,85,70,88,student183@example.com,Needs  support
+STU-184,Kelvin Mollel,FEMALE,data analysis,Statistics,Arusha,95,90,96,student184@example.com,Excellent
+STU-185,Mariam Mrema,male,Python,ICT,Arusha,,48,92,student185@example.com,Excellent
+STU-186,Agnes Mrema,Female,Data  Analysis,Business,dar es salaam,62,60,96,student186@example.com,Needs  support
+STU-187,Emmanuel Kimaro,male,sql,ICT,dar es salaam,,70,92,,Good progress
+STU-188,David Mtei,male,Business Intelligence,Statistics,Mwanza,90,55,74,student188@example.com,Needs support
+STU-189,Juma Kassim,MALE,data analysis,Business,Mwanza,95,72,38,student189@example.com,Needs  support
+STU-190,Joyce Moshi,male,python,Business,Dar es Salaam,68,72,62,student190@example.com,Needs  support
+STU-191,Esther Mollel,Female,Python,ICT,dar es salaam,72,75,83,student191@example.com,Needs  support
+STU-192,Emmanuel Nnko,female,sql,Business,Mwanza,90,65,84,student192@example.com,Needs support
+STU-193,David Said,Male,SQL,statistics,Mwanza,90,70,,student193@example.com,Needs support
+STU-194,Janet Msuya,male,business intelligence,ICT,dar es salaam,90,72,92,student194@example.com,
+STU-195,Joseph Kassim,Female,business intelligence,ICT,Mwanza,68,60,75,student195@example.com,
+STU-196,Juma Lyimo,Female,data analysis,Business,Mwanza,90,65,28,student196@example.com,good progress
+STU-197,Neema Mushi,FEMALE,Business Intelligence,Computer Science,Arusha,80,55,28,student197@example.com,Excellent
+STU-198,Joseph Kassim,FEMALE,Data  Analysis,Business,Arusha,75,72,84,student198@example.com,Needs  support
+STU-198,Joseph Kassim,FEMALE,Data  Analysis,Business,Arusha,75,72,84,student198@example.com,Needs  support
+STU-200,Janet Mashauri,Female,data analysis,statistics,Mwanza,72,60,52,student200@example.com,Good progress
