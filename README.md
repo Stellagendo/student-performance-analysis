@@ -39,7 +39,7 @@ Student scores are grouped into the following categories:
 
 ## Dashboard Preview
 
-![Student Performance Dashboard](Students-Performance-Dashboard.png)
+![Student Performance Dashboard](Dashboard.png)
 The dashboard provides an overview of student academic performance,
 including examination scores, attendance, performance distribution
 and student-level records.
