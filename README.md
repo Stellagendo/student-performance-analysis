@@ -18,7 +18,7 @@ This analysis focuses on organizing student performance data into meaningful cat
 
 ## Tools Used
 - Power BI
-- Microsoft Excel (data preparation, where applicable)
+- Microsoft Excel
 
 ## Performance Classification
 
