@@ -45,6 +45,15 @@ The dashboard provides an overview of student academic performance,
 including examination scores, attendance, performance distribution
 and student-level records.
 
+## Project Files
+
+| File | Description |
+|---|---|
+| [Power BI Dashboard](Student_Performance.pbix) | Interactive student performance dashboard |
+| [Dataset](Students.csv) | Dataset used for the analysis |
+| [Dashboard Screenshot](Dashboard.png) | Visual preview of the dashboard |
+
+
 ## Key Insights
 Key findings and observations will be documented here after reviewing the completed analysis and dashboard.
 
