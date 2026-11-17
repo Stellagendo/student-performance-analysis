@@ -68,10 +68,24 @@ and student-level records.
 - Student performance varies across courses and attendance categories.
 
 ## Recommendations
-Recommendations will be developed based on the actual findings from the analysis.
+
+Based on the analysis, the following actions are recommended:
+
+- **Targeted Academic Support:** Provide additional academic support, tutoring and learning resources to students classified as needing improvement.
+- **Monitor Student Attendance:** Strengthen attendance monitoring and identify students with low attendance for appropriate academic support.
+- **Course-Level Performance Monitoring:** Review performance across different courses to identify subjects that may require additional learning interventions.
+- **Continuous Performance Tracking:** Regularly monitor midterm and final examination results to identify performance gaps and track academic progress.
+- **Data-Driven Decision Making:** Encourage educational institutions to use performance dashboards to support evidence-based academic planning and decision-making.
 
 ## Conclusion
-This project demonstrates the use of data analysis and visualization to explore academic performance and communicate meaningful insights.
+
+The Student Performance Analysis project demonstrates how data analytics and visualization can be used to evaluate academic performance and generate meaningful insights.
+
+The analysis covered 197 students, highlighting an average final examination score of 66.17 and identifying 31 students who need academic improvement.
+
+Using Power BI, the project transformed student records into an interactive dashboard that makes it easier to explore performance patterns, compare results and identify areas requiring attention.
+
+This project highlights the value of data-driven approaches in supporting academic monitoring, identifying improvement opportunities and making informed educational decisions.
 
 ---
 
