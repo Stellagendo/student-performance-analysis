@@ -49,7 +49,7 @@ and student-level records.
 
 | File | Description |
 |---|---|
-| [Power BI Dashboard](Student_Performance.pbix) | Interactive student performance dashboard |
+| [Power BI Dashboard](Students-Performance.pbix) | Interactive student performance dashboard |
 | [Dataset](Students.csv) | Dataset used for the analysis |
 | [Dashboard Screenshot](Dashboard.png) | Visual preview of the dashboard |
 
