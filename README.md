@@ -53,9 +53,19 @@ and student-level records.
 | [Dataset](Students.csv) | Dataset used for the analysis |
 | [Dashboard Screenshot](Dashboard.png) | Visual preview of the dashboard |
 
+## Download Project Files
 
+- [Download Power BI Dashboard (.pbix)](Student-Performance.pbix)
+- [Download Student Performance Dataset (.xlsx)](Students.csv)
+ 
 ## Key Insights
-Key findings and observations will be documented here after reviewing the completed analysis and dashboard.
+
+- The analysis covers 197 students.
+- The average final examination score is 66.17.
+- The average midterm score is 57.81.
+- Average attendance stands at 73.44.
+- 31 students are classified as needing improvement.
+- Student performance varies across courses and attendance categories.
 
 ## Recommendations
 Recommendations will be developed based on the actual findings from the analysis.
